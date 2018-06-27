@@ -1,0 +1,11 @@
+{ 
+	"frame": ["red", "white"],
+	"x": {"min":650, "max" : 20, "steps":10},
+	"y": {"min":200, "max" : 800, "steps":10},
+	"lifespan": 4000,
+	"scale": { "start": 0.5, "end": 0 },
+	"frequency" : 100,
+	"accelerationY" : 300,
+	"accelerationX" : 200,
+	"blendMode": "ADD"
+}

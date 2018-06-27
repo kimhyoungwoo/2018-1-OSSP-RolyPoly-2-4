@@ -1,0 +1,11 @@
+{
+        "frame": [ "yellow"],
+        "x": {"min":600, "max" : 50, "steps":10},
+		"y": {"min":200, "max" : 900, "steps":10},
+		"angle" : {"min" : 0, "max" : 360, "steps" : 18},
+		"speed" : 150,
+        "lifespan": 6000,
+        "frequency": 100,
+        "scale": { "start": 0.2, "end": 0 },
+        "blendMode": "ADD"
+}

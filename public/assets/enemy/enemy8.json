@@ -1,0 +1,11 @@
+{ 
+	"frame": ["blue", "white"],
+	"x": {"min":700, "max" : 50, "steps":10},
+	"y": {"min":800, "max" : 1100, "steps":10},
+	"lifespan": 4000,
+	"scale": { "start": 0.5, "end": 0 },
+	"frequency" : 100,
+	"gravityX" : -200,
+	"gravityY" : -500,
+	"blendMode": "ADD"
+}
